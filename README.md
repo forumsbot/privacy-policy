@@ -32,4 +32,4 @@ Your data is stored in a restricted database, using encryption. You can send us 
 
 ### 4) Deletion of Your Data
 
-You are free to request the deletion of your data. You can send your request for the complete deletion of your data by sending a DM to the user with name tag and ID Elefante#0001 (423374884245078016) or by sending an e-mail to elefantedev@gmail.com. Your request will be processed within 30 days of receipt.
+You are free to request the deletion of your data. You can send your request for the complete deletion of your data by sending a DM to the user with name tag and ID Elefante#0001 (423374884245078016) or by sending an e-mail to elefantedev@gmail.com. Your request will be processed within 14 days of receipt.
