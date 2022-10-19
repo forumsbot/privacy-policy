@@ -1,6 +1,6 @@
 # Forums - Privacy Policy
 
-This privacy policy lists the terms you accept when you start using Forums systems and services. Any or more of these terms may be modified, edited or removed with or without notice.x
+This privacy policy lists the terms you accept when you start using Forums systems and services. Any or more of these terms may be modified, edited or removed with or without notice.
 
 ### 1) Terminology:
 
