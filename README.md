@@ -25,6 +25,7 @@ Bot – A type of user who operates an automated system with the word BOT next t
 
 • Used server channel ID
 
+• Created post's features with Forums
 
 ### 3) Protection of Your Data
 
