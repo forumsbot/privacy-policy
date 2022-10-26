@@ -29,8 +29,8 @@ Bot – A type of user who operates an automated system with the word BOT next t
 
 ### 3) Protection of Your Data
 
-Your data is stored in a restricted database, using encryption. You can send us an e-mail about the confidentiality of your data at elefantedev@gmail.com. If you have a concern or question about your data, you can both hide your data and ask your questions by sending a DM to the user with the name tag Elefante#0001.
+Your data is stored in a restricted database, using encryption. You can send us an e-mail about the confidentiality of your data at forums@elefantedev.me. If you have a concern or question about your data, you can both hide your data and ask your questions by sending a DM to the user with the name tag Elefante#0001.
 
 ### 4) Deletion of Your Data
 
-You are free to request the deletion of your data. You can send your request for the complete deletion of your data by sending a DM to the user with name tag and ID Elefante#0001 (423374884245078016) or by sending an e-mail to elefantedev@gmail.com. Your request will be processed within 14 days of receipt.
+You are free to request the deletion of your data. You can send your request for the complete deletion of your data by sending a DM to the user with name tag and ID Elefante#0001 (423374884245078016) or by sending an e-mail to forums@elefantedev.me. Your request will be processed within 14 days of receipt.
